@@ -1,8 +1,10 @@
 @yonghappy's life
 ===============
 
-- 24/02/1955 Born
-- ~1968 Summer job
-- 03/1976 Built a computer
-- 01/04/1976 Started a [company](http://en.wikipedia.org/wiki/Apple_Inc. "Apple Inc.")
-- 04/1976-2011 Whole bunch of interesting events
+- 07/06/1990 Born
+- ~2001 Primary School
+- ~2004 junior high school
+- ~2007 high school
+- ~2011 University
+- 11/03/2011 Started a  work[company](http://en.wikipedia.org/wiki/Apple_Inc. "Apple Inc.")
+- 08/2011-2018 Whole bunch of interesting events
